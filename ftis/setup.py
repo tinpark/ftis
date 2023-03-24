@@ -19,7 +19,7 @@ setup(
         "Soundfile",
         "hdbscan",
         "umap-learn",
-        "sklearn",
+        "scikit-learn", #trying to fix the fact that sklearn is depreciated
         "python-flucoma>=1.2.0",
         "scipy",
         "rich",
